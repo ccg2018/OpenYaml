@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">OpenYaml</string>
+    <string name="action_settings">Settings</string>
+    <string name="open_yaml">Open yaml file</string>
+    <!-- Strings used for fragments for navigation -->
+</resources>
